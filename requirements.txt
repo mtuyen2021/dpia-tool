@@ -1,9 +1,9 @@
 certifi==2018.4.16
 chardet==3.0.4
-Django==1.11
+Django==1.10
 django-appconf==1.0.2
 django-crispy-forms==1.7.0
-django-downloadview==1.9
+django-downloadview==1.8
 django-reversion==2.0.12
 django-widget-tweaks==1.4.1
 html5lib==1.0.1
